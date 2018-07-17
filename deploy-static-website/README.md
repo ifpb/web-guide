@@ -1,5 +1,8 @@
 # Deploy Static Website
 
+- [Github Pages](#github-pages)
+- [Netlify](#netlify)
+
 ## [Github Pages](https://pages.github.com)
 ---
 
@@ -86,12 +89,19 @@ $ git push -u origin master
 
 ### Github - Create github page
 
+> https://username.github.io/site-name/
+
 ![](assets/create-github-pages.gif)
 
-
-### Browser - open https://lucachaves.github.io/site-name/
 
 ## Netlify
 ---
 
 [Como colocar seu site no ar de graca](https://willianjusten.com.br/como-colocar-seu-site-no-ar-de-graca/)
+
+## References
+---
+
+- [How to Initialize a Git Repository using Visual Studio Code and Publish the Code to Git Server](https://www.codeproject.com/Articles/1177391/How-to-Initialize-a-Git-Repository-using-Visual-St)
+- [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
+- [Git Version Control in VS Code](https://code.visualstudio.com/docs/introvideos/versioncontrol)
