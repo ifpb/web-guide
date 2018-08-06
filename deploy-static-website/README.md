@@ -61,6 +61,11 @@ $ git add -A
 ### VSCode - Git commit
 
 ```
+$ git config user.email "example@email.com"
+$ git config user.name "example"
+```
+
+```
 $ git commit -m "primeira versão do site"
 ```
 
@@ -82,6 +87,13 @@ $ git push -u origin master
 
 ![](assets/git-push.gif)
 
+> Enter login and password
+
+[git-credential-store - Helper to store credentials on disk](https://git-scm.com/docs/git-credential-store):
+```
+$ git config credential.helper store
+$ git push
+```
 
 ### Github - Repository page with code
 
